@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\estrutura-repeticao\bin\Debug\estrutura-repeticao.exe.config
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\estrutura-repeticao\bin\Debug\estrutura-repeticao.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\estrutura-repeticao\bin\Debug\estrutura-repeticao.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\estrutura-repeticao\obj\Debug\estrutura-repeticao.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\estrutura-repeticao\obj\Debug\estrutura-repeticao.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\estrutura-repeticao\obj\Debug\estrutura-repeticao.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\estrutura-repeticao\obj\Debug\estrutura-repeticao.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\estrutura-repeticao\obj\Debug\estrutura-repeticao.pdb

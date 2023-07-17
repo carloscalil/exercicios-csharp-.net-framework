@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\posto\bin\Debug\posto.exe.config
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\posto\bin\Debug\posto.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\posto\bin\Debug\posto.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\posto\obj\Debug\posto.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\posto\obj\Debug\posto.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\posto\obj\Debug\posto.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\posto\obj\Debug\posto.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\posto\obj\Debug\posto.pdb

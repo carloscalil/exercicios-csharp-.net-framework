@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\elevador\bin\Debug\elevador.exe.config
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\elevador\bin\Debug\elevador.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\elevador\bin\Debug\elevador.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\elevador\obj\Debug\elevador.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\elevador\obj\Debug\elevador.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\elevador\obj\Debug\elevador.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\elevador\obj\Debug\elevador.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\elevador\obj\Debug\elevador.pdb

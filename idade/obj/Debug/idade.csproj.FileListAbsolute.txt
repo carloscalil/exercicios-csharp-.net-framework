@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\idade\bin\Debug\idade.exe.config
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\idade\bin\Debug\idade.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\idade\bin\Debug\idade.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\idade\obj\Debug\idade.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\idade\obj\Debug\idade.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\idade\obj\Debug\idade.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\idade\obj\Debug\idade.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\idade\obj\Debug\idade.pdb

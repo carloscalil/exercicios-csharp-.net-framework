@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\maior\bin\Debug\maior.exe.config
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\maior\bin\Debug\maior.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\maior\bin\Debug\maior.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\maior\obj\Debug\maior.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\maior\obj\Debug\maior.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\maior\obj\Debug\maior.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\maior\obj\Debug\maior.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\maior\obj\Debug\maior.pdb

@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\desafio\bin\Debug\desafio.exe.config
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\desafio\bin\Debug\desafio.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\desafio\bin\Debug\desafio.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\desafio\obj\Debug\desafio.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\desafio\obj\Debug\desafio.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\desafio\obj\Debug\desafio.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\desafio\obj\Debug\desafio.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\desafio\obj\Debug\desafio.pdb

@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\somar\bin\Debug\somar.exe.config
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\somar\bin\Debug\somar.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\somar\bin\Debug\somar.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\somar\obj\Debug\somar.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\somar\obj\Debug\somar.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\somar\obj\Debug\somar.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\somar\obj\Debug\somar.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\somar\obj\Debug\somar.pdb

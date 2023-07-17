@@ -1,0 +1,8 @@
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\escola\bin\Debug\escola.exe.config
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\escola\bin\Debug\escola.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\escola\bin\Debug\escola.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\escola\obj\Debug\escola.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\escola\obj\Debug\escola.csproj.SuggestedBindingRedirects.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\escola\obj\Debug\escola.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\escola\obj\Debug\escola.exe
+D:\Cursos\moura\.net-angular-2022-turma04\projetos\basico\escola\obj\Debug\escola.pdb
